@@ -1,60 +1,56 @@
 * {
-    margin: 0 20px;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Poppins', san-serif;
-    background-color:oldlace;
+  margin: 0 20px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", san-serif;
+  background-color: oldlace;
 }
 
 h1 {
-    font-family: xx-large;
-    margin: 30px;
-    font-weight: 800;
-    text-align: center;
+  font-family: xx-large;
+  margin: 30px;
+  font-weight: 800;
+  text-align: center;
 }
 h2 {
-    text-align: center;
-    margin:5px;
+  text-align: center;
+  margin: 5px;
 }
 img.main {
-    float:left;
-    height: 400px;
-    width: 600px;
-    margin:30px;
-    border:10px solid rosybrown;
+  float: left;
+  height: 400px;
+  width: 600px;
+  margin: 30px;
+  border: 10px solid rosybrown;
 }
-form{
-    display: flex;
-    flex-direction: column;
-    width: 40%;
+form {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
 }
-div.clear{
-    clear:both;
+div.clear {
+  clear: both;
 }
-section{
-    width: 25vw;
-    height: 550px;
-    border: 1px solid lightgray;
-    box-shadow: 0px 0px 14px 13px rgba(85, 84, 84, 0.54);
-    object-fit: cover;
-    margin:20px;
+section {
+  width: 25vw;
+  height: 550px;
+  border: 1px solid lightgray;
+  box-shadow: 0px 0px 14px 13px rgba(85, 84, 84, 0.54);
+  object-fit: cover;
+  margin: 20px;
 }
-div.card{
-    width: 100vw;
-    display: flex;
-
+div.card {
+  width: 100vw;
+  display: flex;
 }
-section > img{
-    /* width: 100%;
-    height: 100%; */
-    width: 90%;
-    height: 450px;
+section > img {
+  width: 90%;
+  height: 450px;
 }
-button{
-    width: 90%;
-    height: 35px;
-    border: none;
-    background-color: gray;
-    color: white;
-    
+button {
+  width: 90%;
+  height: 35px;
+  border: none;
+  background-color: gray;
+  color: white;
 }
